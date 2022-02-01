@@ -1,54 +1,42 @@
 [![Keybase](https://camo.githubusercontent.com/0672e5da2705ab9d7bd932f0cee9e4e104084266f70db0cc2764f91954d1280b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6579626173652d3333413046463f6c6f676f3d4b657962617365266c6162656c436f6c6f723d333341304646266c6f676f436f6c6f723d666666)](https://keybase.io/IO0288)
 
 # 🔑 Pubkey
-- Feel free to reach me via email/telegram/etc..
-- This is the pubkey in case you need.
-- Pretty Good Privacy (PGP) encryption program provides cryptographic privacy and authentication for data communication. PGP is used for signing, encrypting, and decrypting texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail communications.
-
-<!-- # 🔑 Hash
-## yashipgppublickey2016lts.asc (PGP)
+- Feel free to reach me via Email/QQ/etc..
+# 🔑 Hash
+## IO0288PublicKey2022LTS.pub.asc (PGP/SSH)
 - For GPG identity verification.
-- MD5     ：9A40547246A992E203188848BFBF1F44
-- SHA1    ：AB9AAE366B25D678131BFA326C8CD18AA46DBBED
-- CRC32   ：E8C9A5F3
-### yashipgppublickey2016lts.asc.sig (Sign)
-- MD5     ：ACCC41C19FDBE463E1FFCF4E7BC07E21
-- SHA1    ：5511CA6C2C7C362B7E289A3665A1E380D355290E
-- CRC32   ：C5BCC279
-## yashisshpublickey2016lts.pub (SSH)
-- For SSH identity verification.
-- MD5     ：B5BE83D8CC07D5A7BE6FFFFA3A6B5264
-- SHA1    ：C2D740FF6CA3D6CA80F8F784F03C8C301A829C3D
-- CRC32   ：20D9D987
-### yashisshpublickey2016lts.pub.sig (Sign)
-- MD5     ：2A6FA0130D0750891336F1D4045412D7
-- SHA1    ：361E50E86B5BEF27A080ECAB3AEE6580AF078088
-- CRC32   ：8FA1BAF2
-
-# 🔑 yashipgppublickey2016lts.asc
+- MD5   : 1600545B0F64DDD8ADD27FF00774E1B6
+- SHA1  : 8FCE9C06ECFDEBA689D530512DFD6C68EB0A7F58
+- CRC32 : 7F767F43
+<!-- - This is the pubkey in case you need.
+- Pretty Good Privacy (PGP) encryption program provides cryptographic privacy and authentication for data communication. PGP is used for signing, encrypting, and decrypting texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail communications.
+-->
+# 🔑 IO0288PublicKey2022LTS.pub.asc
 ## User-ID:
-- Yashi Kagurazaka (神楽坂雅詩.专用.Special)
+- IO0288 <Admin@IO0288.CN>
+- IO0288 <Admin@IAbu.xyz>
 ## a.k.a.:
-- Yashi Kagurazaka (神楽坂雅詩.个人.Personal)
-- Jesse Chan (霄霄.工作.Job)
-- Jesse Chan (霄霄.个人.Personal)
-- Jesse Chan (霄霄.国际.International)
-- Yashi Kagurazaka (神楽坂雅詩.国际.International)
-- Yashi Kagurazaka (神楽坂雅詩.QQ)
-- Yashi Kagurazaka (神楽坂雅詩.数据.Data)
-- Photo ID
+- IO(简称)
+- IO0288(全称,全网统一)
+- IAbu(曾用名)
+- IAbu0288(曾用名,部分残留)
+- Obest(曾用名)
+- Obest(曾用名)
 ## Validity:
-- from 2016-09-12 00:51 until forever
+- from 2022-02-01 until forever
 ## Certificate type:
 - 4,096-bit RSA
 ## Certificate usage:
 - Signing EMails and Files
 - Encrypting EMails and Files
 - Certifying other Certificates
+- SSH
 ## Key-ID:
-- A772B61D
+- C537DD55 <admin@io0288.cn> (Main)
+- 0D8405AF <admin@iabu.xyz>
 ## Fingerprint:
-- 1F017CCB7C3BFE6CEA4F5D5D3127DF05A772B61D -->
+- C4048E4C2BC3380EE97582A3520A7DFAC537DD55 (Main)
+- 258547C1400FDE1938DF37B4040B4A800D8405AF
 
 ## PGP Public key block:
 ```
