@@ -1,4 +1,4 @@
-[![Keybase](https://img.shields.io/badge/-Keybase-33A0FF?logo=IO0288&labelColor=33A0FF&logoColor=fff)](https://keybase.io/IO0288)
+[![Keybase](https://camo.githubusercontent.com/0672e5da2705ab9d7bd932f0cee9e4e104084266f70db0cc2764f91954d1280b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6579626173652d3333413046463f6c6f676f3d4b657962617365266c6162656c436f6c6f723d333341304646266c6f676f436f6c6f723d666666)](https://keybase.io/IO0288)
 
 # 🔑 Pubkey
 - Feel free to reach me via email/telegram/etc..
